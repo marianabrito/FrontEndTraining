@@ -1,0 +1,20 @@
+{
+  "name": "FrontEndTraining",
+  "version": "1.0.0",
+  "description": "FrontEndTraining",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianabrito/FrontEndTraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianabrito/FrontEndTraining/issues"
+  },
+  "homepage": "https://github.com/marianabrito/FrontEndTraining#readme"
+}
